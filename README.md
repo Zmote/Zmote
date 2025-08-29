@@ -1,4 +1,4 @@
-# Zafer Dogan
+# Welcome
 I'm an IT professional with a primary focus on web applications. A curious fellow with a broad set of interests, mostly to the detriment to my social life.
 
 Some things about me:
