@@ -4,10 +4,9 @@ I'm an IT professional with a primary focus on web applications. A curious fello
 Some things about me:
 - I'm a cat daddy 🐈
 - To the question, how many monitors do you need, my answer is usually: YES! My current main setup looks like this:
-  - ⬛🖥️⬛
-  - 🖥️⬛🖥️
   - 🖥️🖥️🖥️
-  - ⬛🖥️⬛  
+  - 🖥️🖥️🖥️
+  - ⌨️🖥️🖱️  
 - All things story-telling intrigue me
 - I think I have informatino ADHD (can't get those open tabs under 40+)
 
